@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="move_with_object">Move with Object</string>
+    <string name="object_received">Object Received</string>
+    <string name="tv_choose_liked_number">Pilih angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Pilih</string>
+    <string name="move_with_result">Move with Result</string>
+</resources>
